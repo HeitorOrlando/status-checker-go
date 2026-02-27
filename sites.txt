@@ -1,0 +1,4 @@
+https://alura.com.br
+https://google.com
+https://facebook.com
+https://httpbin.org/status/200,404,500
